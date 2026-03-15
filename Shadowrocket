@@ -23,8 +23,7 @@ DOMAIN,mesu.apple.com,REJECT
 DOMAIN,xp.apple.com,REJECT
 DOMAIN,swquery.apple.com,REJECT
 DOMAIN,swdownload.apple.com,REJECT
-
-
+DOMAIN-KEYWORD,lily,DIRECT
 
 
 # 手工定义的 Proxy 列表
