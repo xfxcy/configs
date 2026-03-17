@@ -14,6 +14,9 @@ dns-server = https://dns.alidns.com/dns-query, https://doh.pub/dns-query
 #自己常用，写在前面随时改
 #自己常用，写在前面随时改
 
+DOMAIN-KEYWORD,lily,Proxy
+DOMAIN-KEYWORD,emby,Proxy
+DOMAIN,www.speedtest.net,Proxy
 
 DOMAIN,swscan.apple.com,REJECT
 DOMAIN,swdist.apple.com,REJECT
@@ -23,7 +26,6 @@ DOMAIN,mesu.apple.com,REJECT
 DOMAIN,xp.apple.com,REJECT
 DOMAIN,swquery.apple.com,REJECT
 DOMAIN,swdownload.apple.com,REJECT
-DOMAIN-KEYWORD,lily,DIRECT
 
 
 # 手工定义的 Proxy 列表
