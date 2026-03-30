@@ -1,8 +1,9 @@
-127.0.0.1 swscan.apple.com
-127.0.0.1 swdist.apple.com
-127.0.0.1 swcdn.apple.com
-127.0.0.1 gdmf.apple.com
-127.0.0.1 mesu.apple.com
-127.0.0.1 xp.apple.com
-127.0.0.1 swquery.apple.com
-127.0.0.1 swdownload.apple.com
+# 自用
+DOMAIN,swscan.apple.com,REJECT
+DOMAIN,swdist.apple.com,REJECT
+DOMAIN,swcdn.apple.com,REJECT
+DOMAIN,gdmf.apple.com,REJECT
+DOMAIN,mesu.apple.com,REJECT
+DOMAIN,xp.apple.com,REJECT
+DOMAIN,swquery.apple.com,REJECT
+DOMAIN,swdownload.apple.com,REJECT
